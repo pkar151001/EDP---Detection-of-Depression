@@ -1,0 +1,39 @@
+Timestamp,GENDER,AGE,Working / Studying hours,Are you experiencing Appetite loss?,Is your blood pressure normal?,Heart rate (increase in beats per second),Loss of Concentration, Little interest or pleasure in doing things,Are you experiencing anxiety attacks?,"Feeling down, depressed, or hopeless?","Trouble falling or staying asleep, or sleeping too much",Do you get thoughts of hurting yourself?,Feeling tired or having little energy?
+6/1/2022 20:47:38,Male,20,6-8,Yes,Yes,Normal,2,2,0,2,0,0,2
+6/1/2022 20:48:07,Male,20,4-6,No,Yes,Normal,0,3,0,0,3,0,0
+6/1/2022 20:49:59,Male,20,6-8,No,Yes,Normal,2,2,2,1,2,2,2
+6/1/2022 20:51:09,Female,20,8-10,No,Not sure,Normal,2,2,0,0,0,0,0
+6/1/2022 20:52:17,Male,20,10+,Yes,Yes,Low,3,0,3,3,3,3,3
+6/1/2022 20:54:08,Male,21,6-8,Yes,No,Normal,3,3,1,3,3,3,3
+6/1/2022 20:54:16,Female,20,6-8,No,Not sure,High,3,2,2,3,2,3,3
+6/1/2022 21:00:58,Male,21,4-6,Yes,Yes,Normal,3,2,0,1,3,3,0
+6/1/2022 21:01:10,Male,21,4-6,No,Yes,Normal,1,2,2,3,3,1,2
+6/1/2022 21:05:39,Female,20,10+,Yes,Yes,Normal,2,3,1,2,1,0,2
+6/1/2022 21:14:26,Male,21,6-8,Yes,Not sure,High,3,3,3,3,2,0,1
+6/1/2022 21:15:20,Male,20,4-6,No,Not sure,Normal,2,2,2,3,3,2,2
+6/1/2022 21:22:42,Female,20,6-8,No,Yes,Normal,1,1,1,1,1,0,1
+6/1/2022 21:30:13,Female,21,6-8,Yes,Yes,Normal,2,2,2,2,2,2,2
+6/1/2022 21:42:55,Male,21,4-6,No,Yes,Normal,2,1,2,1,0,0,3
+6/1/2022 21:43:40,Male,20,4-6,Yes,Yes,Normal,2,3,2,2,2,3,2
+6/1/2022 22:00:41,Male,20,8-10,No,Yes,Normal,1,3,1,0,2,1,0
+6/1/2022 22:17:33,Male,23,6-8,Yes,Yes,Normal,2,1,2,3,3,0,2
+6/1/2022 22:39:10,Male,20,4-6,No,Yes,Normal,2,1,0,1,2,1,2
+6/1/2022 22:40:38,Female,20,4-6,Yes,Not sure,Normal,1,1,1,1,1,1,1
+6/1/2022 23:00:20,Male,20,4-6,No,Yes,Normal,2,2,0,0,0,0,0
+6/2/2022 0:02:42,Female,20,6-8,No,Yes,Normal,1,3,0,3,3,0,2
+6/2/2022 0:08:46,Male,21,4-6,Yes,Yes,Normal,2,2,2,3,2,2,2
+6/2/2022 0:33:29,Male,20,4-6,No,Yes,Normal,2,2,0,0,0,1,3
+6/2/2022 6:29:35,Female,21,4-6,No,Yes,Normal,3,3,0,3,3,3,3
+6/2/2022 6:40:20,Female,21,4-6,No,Yes,Normal,0,2,1,1,3,0,3
+6/2/2022 6:40:34,Female,20,6-8,No,Yes,Normal,0,2,0,0,1,0,0
+6/2/2022 6:41:02,Female,20,4-6,No,Yes,Normal,2,2,2,1,3,2,2
+6/2/2022 7:20:30,Female,20,8-10,No,Yes,Normal,1,0,2,3,0,0,3
+6/2/2022 8:19:32,Male,21,8-10,No,Yes,Normal,1,2,3,2,3,0,1
+6/2/2022 9:04:22,Female,20,4-6,No,Not sure,Normal,2,1,0,0,1,0,1
+6/2/2022 9:20:29,Male,21,6-8,Yes,Not sure,Normal,3,3,2,3,3,3,3
+6/2/2022 9:35:58,Female,20,4-6,No,Yes,Normal,1,3,0,1,3,3,0
+6/8/2022 22:31:26,Male,20,6-8,No,Yes,Normal,2,2,1,2,2,3,2
+6/8/2022 22:51:24,Male,21,4-6,No,Yes,Normal,1,0,0,1,2,1,1
+6/8/2022 22:54:24,Male,20,6-8,No,Not sure,Normal,1,1,1,1,1,1,1
+6/8/2022 23:38:10,Female,20,10+,Yes,Yes,Normal,2,2,2,2,2,2,2
+6/8/2022 23:53:48,Male,20,4-6,No,Yes,Normal,2,1,0,1,0,0,1
